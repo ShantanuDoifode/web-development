@@ -72,17 +72,17 @@ nav ul li a {
 }
 
 .banner {
-    color: #ffffff;
+    color: #140c0c;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 90%;
     height: 600px;
-    background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/06/sea-thieves-pirates-life-2376569.jpg?itok=KG6oiDMw);
+    background-image: url(https://i.pinimg.com/736x/66/6e/5f/666e5f2562be7d2e9bf4c04ca03912b3.jpg);
     align-content: end;
     margin-left: 60px;
     background-size: cover;
-    background-color: #333333;
+    background-color: #ed4b00;
     
 }
 @keyframes appear {

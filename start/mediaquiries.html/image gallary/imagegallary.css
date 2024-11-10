@@ -78,11 +78,11 @@ nav ul li a {
     align-items: center;
     width: 90%;
     height: 600px;
-    background-image: url(https://i.pinimg.com/736x/66/6e/5f/666e5f2562be7d2e9bf4c04ca03912b3.jpg);
+    background-image: url();
     align-content: end;
     margin-left: 60px;
     background-size: cover;
-    background-color: #ed4b00;
+    background-color: #141111fe;
     
 }
 @keyframes appear {
@@ -128,14 +128,14 @@ nav ul li a {
 
 }
 .subtext .red {
-    background-color: #ff6363;
+    background-color: #ca0505;
 }
 .subtext .yellow {
-    background-color: #f0a500;
+    background-color: hsl(41, 92%, 48%);
 
 }
 .subtext .green {
-    background-color: #1eb2a6;
+    background-color: #07c9b6;
 }
 .quote {
     display: block;
